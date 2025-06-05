@@ -1,7 +1,7 @@
 ### Hi There👋
 
 - 👨‍💻 Currently developing: **FiveM scripts**
-- 🎮 Founder of **GTA SAMP Android Indonesia**  
+- 🪴 I'm currently learning: **Vehicle Meta on GTA 5**
 - 📚 Passionate in: **Game Modding and Web Development**
 
   
