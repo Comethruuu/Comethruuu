@@ -2,7 +2,7 @@
 
 This is my new GitHub account after my previous email was hacked.
 
-- 👨‍💻 Currently developing: **FiveM scripts**
+- 👨‍💻 Currently developing: **FiveM Scripts**
 - 🪴 I'm currently learning: **Handling Meta and Vehicle Meta on GTA 5**
 - 📚 Passionate in: **Game Modding and Web Development**
 
