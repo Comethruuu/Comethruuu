@@ -1,4 +1,4 @@
-### Hi There👋 [![](https://visitcount.itsvg.in/api?id=Comethruuu&icon=1&color=1)](https://visitcount.itsvg.in)
+### Hi There👋
 
 - 👨‍💻 Currently developing: **FiveM scripts**
 - 🎮 Founder of **GTA SAMP Android Indonesia**  
@@ -17,6 +17,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Comethruuu&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Comethruuu&icon=1&color=1)](https://visitcount.itsvg.in)
