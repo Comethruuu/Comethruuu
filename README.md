@@ -1,5 +1,7 @@
 ### Hi There👋  [![](https://visitcount.itsvg.in/api?id=Comethruuu&icon=1&color=1)](https://visitcount.itsvg.in)
 
+This is my new GitHub account after my previous email was hacked.
+
 - 👨‍💻 Currently developing: **FiveM scripts**
 - 🪴 I'm currently learning: **Vehicle Meta on GTA 5**
 - 📚 Passionate in: **Game Modding and Web Development**
