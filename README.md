@@ -1,4 +1,10 @@
+### Hi There👋 [![](https://visitcount.itsvg.in/api?id=Comethruuu&icon=1&color=1)](https://visitcount.itsvg.in)
 
+- 👨‍💻 Currently developing: **FiveM scripts**
+- 🎮 Founder of **GTA SAMP Android Indonesia**  
+- 📚 Passionate in: **Game Modding and Web Development**
+
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usedtobesweetboy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cloudssupremacy) 
 
