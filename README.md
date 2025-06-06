@@ -1,4 +1,4 @@
-### Hi There👋   ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+### Hi There👋   ![](https://komarev.com/ghpvc/?username=Comethruuu&color=blue)
 
 This is my new GitHub account after my previous email was hacked.
 
