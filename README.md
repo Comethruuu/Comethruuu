@@ -1,4 +1,4 @@
-### Hi There👋   https://komarev.com/ghpvc/?username=your-github-username&color=green [![](https://visitcount.itsvg.in/api?id=Comethruuu&icon=1&color=1)](https://visitcount.itsvg.in)
+### Hi There👋   ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 This is my new GitHub account after my previous email was hacked.
 
