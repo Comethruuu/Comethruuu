@@ -50,7 +50,11 @@ This is my new GitHub account after my previous email was hacked.
 
 ###
 <h2 align="center">Wanna Play? Here's What I Use 🎮</h1>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ---
