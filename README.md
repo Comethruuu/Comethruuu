@@ -7,7 +7,7 @@ This is my new GitHub account after my previous email was hacked.
 - 📚 Passionate in: **Game Modding and Web Development**
 
   
-## 🌐 Let's Connect:
+# 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usedtobesweetboy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudssupremacy) 
 
 # 💻 Tech Stack:
