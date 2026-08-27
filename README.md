@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Comethruuu&color=blue" alt="Profile views" style="vertical-align: middle; margin-left: 15px;" />
 </h1>
 
-This is my new GitHub account after my previous email was hacked.
-
-- 👨‍💻 Currently developing: **FiveM Scripts**
-- 🪴 I'm currently learning: **Handling Meta and Vehicle Meta on GTA 5**
-- 📚 Passionate in: **Game Modding and Web Development**
-
 ###
 <h2 align="center">Let's Connect 🌐</h1>
 <div align="center">
@@ -25,7 +19,7 @@ This is my new GitHub account after my previous email was hacked.
 </div>
 
 ###
-<h2 align="center">Under the Hood 💻</h1>
+<h2 align="center">For now 💻</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="25" alt="lua logo"  />
   <img width="12" />
@@ -33,29 +27,7 @@ This is my new GitHub account after my previous email was hacked.
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="25" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
 </div>
-
-###
-<h2 align="center">My Stuff 🌠</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Comethruuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Comethruuu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
-</div>
-
-###
-<h2 align="center">Wanna Play? 🎮</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Comethruuu/Comethruuu/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
-
-<!-- Proudly created with GPRM (.. https://gprm.itsvg.in ) -->
